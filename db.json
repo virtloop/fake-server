@@ -1,0 +1,16 @@
+{
+  "public-tags": [
+    {
+      "id": 1,
+      "text": "public tag 1
+    },
+    {
+      "id": 2,
+      "text": "public tag 2
+    },
+    {
+      "id": 3,
+      "text": "public tag 3
+    }
+  ]
+}
